@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/salimerid/salimerid.github.io/main/name.svg" alt="Salim Ahmed" />
+</h1>
 # Hi there, I'm Salim Ahmed 👋 
 
 ## I'm a Software Developer!!
